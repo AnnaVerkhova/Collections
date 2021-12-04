@@ -29,7 +29,7 @@ public class ArrayList {
         }
 
         //UPDATE
-        System.out.println("\n update by index 4 to Grodno - ");
+        System.out.println("\n update by index 3 to Grodno - ");
         cities.set(3, "Grodno");
         System.out.println(cities);  // [Мogilev, Minsk, Brest, Grodno]
 
